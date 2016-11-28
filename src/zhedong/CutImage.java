@@ -22,7 +22,7 @@ public class CutImage {
 	private static boolean isDebug = false;
 	//每隔多少个像素取一个点
 	private static int step = 50;
-	private static String file_name = "infantry_am_hd.png";
+	private static String file_name = "amazon.png";
 	//除重用
 	private static HashMap<String, Boolean> images = new HashMap<>();
 	
